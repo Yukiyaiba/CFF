@@ -37,5 +37,5 @@ A .bat működése a következő:
 
 ----------------------------------------------------
 
-# Credts:
+# Credits:
 Thanks to [Eneerge](https://sites.google.com/site/eneerge/scripts/batchgotadmin) , [Ben Gripka](https://stackoverflow.com/a/10052222/17388166) and [dbenham](https://stackoverflow.com/a/10052222/17388166) for the BatchGotAdmin code.
