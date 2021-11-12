@@ -1,5 +1,6 @@
 # CFF
-C drive Freeup Front (Disable BitLocker on C drive)
+# EN
+# C drive Freeup Front (Disable BitLocker on C drive)
 
 When you use this .bat, you must be wery wary!
  - Plug the charger into your notebook
@@ -18,7 +19,8 @@ This .bat function is the below:
 
 ----------------------------------------------------
 
-C meghajtó Felszabadítási Front (BitLocker kikapcsolása a C meghajtón)
+# HU
+# C meghajtó Felszabadítási Front (BitLocker kikapcsolása a C meghajtón)
 
 Amikor ezt a .bat-ot használod, légy nagyon körültekintő!
  - Dugd be a laptopodba a töltőjét (a másik végét meg az áramba)
@@ -36,3 +38,7 @@ A .bat működése a következő:
  - Ha az SSD/HDD terhelés visszaesik a normális/minimális mértékre, a dekódolás véget ért
  - Most már újraindíthatod a rendszert
 
+----------------------------------------------------
+
+# Credts:
+Thanks to [Eneerge](https://sites.google.com/site/eneerge/scripts/batchgotadmin) , [Ben Gripka](https://stackoverflow.com/a/10052222/17388166) and [dbenham](https://stackoverflow.com/a/10052222/17388166) for the BatchGotAdmin code.
