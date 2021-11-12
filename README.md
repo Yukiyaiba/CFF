@@ -1,6 +1,4 @@
-# CFF
-# EN
-# C drive Freeup Front (Disable BitLocker on C drive)
+# CFF {EN} C drive Freeup Front (Disable BitLocker on C drive)
 
 When you use this .bat, you must be wery wary!
  - Plug the charger into your notebook
@@ -19,8 +17,7 @@ This .bat function is the below:
 
 ----------------------------------------------------
 
-# HU
-# C meghajtó Felszabadítási Front (BitLocker kikapcsolása a C meghajtón)
+# CFF {HU} C meghajtó Felszabadítási Front (BitLocker kikapcsolása a C meghajtón)
 
 Amikor ezt a .bat-ot használod, légy nagyon körültekintő!
  - Dugd be a laptopodba a töltőjét (a másik végét meg az áramba)
