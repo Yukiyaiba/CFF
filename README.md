@@ -1,3 +1,5 @@
+# This is provided "as is", with absolutely no warranty expressed or implied. Any use is at your own risk.
+
 # CFF {EN} C drive Freeup Front (Disable BitLocker on C drive)
 
 When you use this .bat, you must be wery wary!
